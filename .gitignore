@@ -3,6 +3,7 @@
 # dependencies
 /container/node_modules
 /products/node_modules
+/cart/node_modules
 
 # production
 /build
